@@ -1,4 +1,3 @@
-
 # Evaluation Pipeline for Your System
 
 This repository contains an evaluation pipeline designed to systematically test, benchmark, and improve the various components of your system, particularly focusing on document processing, embedding, and querying flows. The pipeline utilizes tools like LangChain, Giskard, and OpenAI's GPT models to create a robust automated testing environment.
@@ -60,8 +59,8 @@ The evaluation pipeline enables:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/yourproject.git
-   cd yourproject
+   git clone https://github.com/agnibha-turing/turing-rag-eval-pipeline.git
+   cd turing-rag-eval-pipeline
    ```
 2. **Create a Virtual Environment**
 
